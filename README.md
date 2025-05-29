@@ -24,7 +24,7 @@ Welcome to my Personal Portfolio project! This is a sleek, responsive portfolio 
 1. **How to Run This Project Locally**
 
   Clone the repo:
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/Ritwikagit/Portfolio-dashboard.git
 cd your-portfolio
 
 2. **Install dependencies:**
